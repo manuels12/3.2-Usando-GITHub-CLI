@@ -23,8 +23,7 @@ Aqui se clona el archivo de github.
 * * *
 Este es el archivo de github que se clona
 ![](3.22.png)
-* * *
-![](3.222.png)
+
 * * *
 Aqui agregamos datos
 ![](3.2222.png)
