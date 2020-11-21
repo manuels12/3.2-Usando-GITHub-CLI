@@ -18,14 +18,17 @@ main:   mov r0, #2       @ load immediate value 2 into Register r0
   
 El cual usamos como ejemplo para sincronizarnos con el repositorio en tiempo real   
 * * *
+Aqui se clona el archivo de github.  
 ![](3.2.png)
 * * *
+Este es el archivo de github que se clona
 ![](3.22.png)
 * * *
 ![](3.222.png)
 * * *
-Aqui ya se muestra la actualizacion
+Aqui agregamos datos
 ![](3.2222.png)
 * * *
+Aqui ya se muestra la actualizacion en github.
 ![](3.22222222.png)
 * * *
