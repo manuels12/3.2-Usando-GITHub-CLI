@@ -29,6 +29,9 @@ Este es el archivo de github que se clona
 Aqui agregamos datos
 ![](3.2222.png)
 * * *
+Agregamos los comandos para actulizar desde QEMU el archivo de github 
+![](3.222.png)
+* * *
 Aqui ya se muestra la actualizacion en github.
 ![](3.22222222.png)
 * * *
